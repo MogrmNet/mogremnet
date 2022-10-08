@@ -1,0 +1,29 @@
+#big_wrapper{
+	whith: 500px;
+	bolder: solid 5px #d35400;
+	font-size: 20px;
+	padding: 50px;
+	margin: 20px;
+	font-size: 30;
+	font-family: tahoma;
+	font-style: !important;
+	background-color: black;
+	background-color: purple;
+}
+#website_header {
+	color: orange;
+	font-size: 80px;
+	background-color: black;
+	}
+#wrap{
+	whith: 500px;
+	bolder: solid 5px #d35400;
+	font-size: 20px;
+	padding: 50px;
+	margin: 20px;
+	font-size: 30;
+	font-family: tahoma;
+	font-style: !important;
+	background-color: black;
+	background-color: purple;
+}
